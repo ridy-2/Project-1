@@ -1,0 +1,882 @@
+{
+  "users": [
+    {
+      "id": "admin@gmail.com",
+      "email": "admin@gmail.com",
+      "password": "password123",
+      "name": "Administrator",
+      "role": "Admin",
+      "permissions": [
+        "Read",
+        "Write",
+        "Delete",
+        "Manage Users"
+      ]
+    },
+    {
+      "id": "test@gmail.com",
+      "email": "test@gmail.com",
+      "name": "Davin",
+      "password": "12345678",
+      "role": "Admin",
+      "permissions": [
+        "Read",
+        "Write",
+        "Manage Users",
+        "Delete"
+      ]
+    },
+    {
+      "id": "user1@gmail.com",
+      "email": "user1@gmail.com",
+      "name": "Eka Saputra",
+      "password": "password123",
+      "role": "Editor",
+      "permissions": [
+        "Read",
+        "Write"
+      ]
+    },
+    {
+      "id": "user2@gmail.com",
+      "email": "user2@gmail.com",
+      "name": "Farhan Aditama",
+      "password": "password123",
+      "role": "User",
+      "permissions": [
+        "Read"
+      ]
+    },
+    {
+      "id": "user3@gmail.com",
+      "email": "user3@gmail.com",
+      "name": "Gita Lestari",
+      "password": "password123",
+      "role": "User",
+      "permissions": [
+        "Read"
+      ]
+    },
+    {
+      "id": "user4@gmail.com",
+      "email": "user4@gmail.com",
+      "name": "Hadi Wijaya",
+      "password": "password123",
+      "role": "User",
+      "permissions": [
+        "Read"
+      ]
+    },
+    {
+      "id": "user5@gmail.com",
+      "email": "user5@gmail.com",
+      "name": "Indah Permata",
+      "password": "password123",
+      "role": "User",
+      "permissions": [
+        "Read"
+      ]
+    },
+    {
+      "id": "user6@gmail.com",
+      "email": "user6@gmail.com",
+      "name": "Joko Widodo",
+      "password": "password123",
+      "role": "User",
+      "permissions": [
+        "Read"
+      ]
+    },
+    {
+      "id": "user7@gmail.com",
+      "email": "user7@gmail.com",
+      "name": "Kartika Sari",
+      "password": "password123",
+      "role": "User",
+      "permissions": [
+        "Read"
+      ]
+    },
+    {
+      "id": "user8@gmail.com",
+      "email": "user8@gmail.com",
+      "name": "Larasati",
+      "password": "password123",
+      "role": "User",
+      "permissions": [
+        "Read"
+      ]
+    },
+    {
+      "id": "user9@gmail.com",
+      "email": "user9@gmail.com",
+      "name": "Miko Pratama",
+      "password": "password123",
+      "role": "User",
+      "permissions": [
+        "Read"
+      ]
+    },
+    {
+      "id": "user10@gmail.com",
+      "email": "user10@gmail.com",
+      "name": "Nabila Syakieb",
+      "password": "password123",
+      "role": "User",
+      "permissions": [
+        "Read"
+      ]
+    },
+    {
+      "id": "user11@gmail.com",
+      "email": "user11@gmail.com",
+      "name": "Okto Wijaya",
+      "password": "password123",
+      "role": "User",
+      "permissions": [
+        "Read"
+      ]
+    },
+    {
+      "id": "user12@gmail.com",
+      "email": "user12@gmail.com",
+      "name": "Prima Nugraha",
+      "password": "password123",
+      "role": "User",
+      "permissions": [
+        "Read"
+      ]
+    },
+    {
+      "id": "user13@gmail.com",
+      "email": "user13@gmail.com",
+      "name": "Qori Rahmawati",
+      "password": "password123",
+      "role": "User",
+      "permissions": [
+        "Read"
+      ]
+    },
+    {
+      "id": "user14@gmail.com",
+      "email": "user14@gmail.com",
+      "name": "Rian Hidayat",
+      "password": "password123",
+      "role": "User",
+      "permissions": [
+        "Read"
+      ]
+    },
+    {
+      "id": "user15@gmail.com",
+      "email": "user15@gmail.com",
+      "name": "Sinta Bella",
+      "password": "password123",
+      "role": "User",
+      "permissions": [
+        "Read"
+      ]
+    },
+    {
+      "id": "user16@gmail.com",
+      "email": "user16@gmail.com",
+      "name": "Taufik Hidayat",
+      "password": "password123",
+      "role": "User",
+      "permissions": [
+        "Read"
+      ]
+    },
+    {
+      "id": "user17@gmail.com",
+      "email": "user17@gmail.com",
+      "name": "Utami Ningsih",
+      "password": "password123",
+      "role": "User",
+      "permissions": [
+        "Read"
+      ]
+    },
+    {
+      "id": "user18@gmail.com",
+      "email": "user18@gmail.com",
+      "name": "Vina Panduwinata",
+      "password": "password123",
+      "role": "User",
+      "permissions": [
+        "Read"
+      ]
+    },
+    {
+      "id": "user19@gmail.com",
+      "email": "user19@gmail.com",
+      "name": "Wahyu Setiawan",
+      "password": "password123",
+      "role": "User",
+      "permissions": [
+        "Read"
+      ]
+    }
+  ],
+  "mahasiswa": [
+    {
+      "id": "20211002",
+      "nim": "20211002",
+      "nama": "Budi",
+      "status": true,
+      "maxSks": 16
+    },
+    {
+      "id": "20211003",
+      "nim": "20211003",
+      "nama": "Citra",
+      "status": true,
+      "maxSks": 24
+    },
+    {
+      "id": "202315104",
+      "nim": "202315104",
+      "nama": "Davin",
+      "status": true,
+      "maxSks": 24
+    },
+    {
+      "id": "202315103",
+      "nim": "202315103",
+      "nama": "Putra",
+      "status": true,
+      "maxSks": 24
+    },
+    {
+      "id": "202315105",
+      "nim": "202315105",
+      "nama": "Eka Saputra",
+      "status": true,
+      "maxSks": 24
+    },
+    {
+      "id": "202315106",
+      "nim": "202315106",
+      "nama": "Farhan Aditama",
+      "status": false,
+      "maxSks": 24
+    },
+    {
+      "id": "202315107",
+      "nim": "202315107",
+      "nama": "Gita Lestari",
+      "status": true,
+      "maxSks": 24
+    },
+    {
+      "id": "202315108",
+      "nim": "202315108",
+      "nama": "Hadi Wijaya",
+      "status": true,
+      "maxSks": 24
+    },
+    {
+      "id": "202315109",
+      "nim": "202315109",
+      "nama": "Indah Permata",
+      "status": true,
+      "maxSks": 24
+    },
+    {
+      "id": "202315110",
+      "nim": "202315110",
+      "nama": "Joko Widodo",
+      "status": false,
+      "maxSks": 24
+    },
+    {
+      "id": "202315111",
+      "nim": "202315111",
+      "nama": "Kartika Sari",
+      "status": true,
+      "maxSks": 24
+    },
+    {
+      "id": "202315112",
+      "nim": "202315112",
+      "nama": "Larasati",
+      "status": true,
+      "maxSks": 24
+    },
+    {
+      "id": "202315113",
+      "nim": "202315113",
+      "nama": "Miko Pratama",
+      "status": true,
+      "maxSks": 24
+    },
+    {
+      "id": "202315114",
+      "nim": "202315114",
+      "nama": "Nabila Syakieb",
+      "status": true,
+      "maxSks": 24
+    },
+    {
+      "id": "202315115",
+      "nim": "202315115",
+      "nama": "Okto Wijaya",
+      "status": false,
+      "maxSks": 24
+    },
+    {
+      "id": "202315116",
+      "nim": "202315116",
+      "nama": "Prima Nugraha",
+      "status": true,
+      "maxSks": 24
+    },
+    {
+      "id": "202315117",
+      "nim": "202315117",
+      "nama": "Qori Rahmawati",
+      "status": true,
+      "maxSks": 24
+    },
+    {
+      "id": "202315118",
+      "nim": "202315118",
+      "nama": "Rian Hidayat",
+      "status": true,
+      "maxSks": 24
+    },
+    {
+      "id": "202315119",
+      "nim": "202315119",
+      "nama": "Sinta Bella",
+      "status": true,
+      "maxSks": 24
+    },
+    {
+      "id": "202315120",
+      "nim": "202315120",
+      "nama": "Taufik Hidayat",
+      "status": true,
+      "maxSks": 24
+    }
+  ],
+  "dosen": [
+    {
+      "id": "0412038901",
+      "nidn": "0412038901",
+      "nama": "Dr. Ahmad Dahlan",
+      "email": "ahmad.dahlan@univ.ac.id",
+      "status": true,
+      "maxSks": 12
+    },
+    {
+      "id": "0412038902",
+      "nidn": "0412038902",
+      "nama": "Prof. Budi Santoso",
+      "email": "budi.santoso@univ.ac.id",
+      "status": true,
+      "maxSks": 12
+    },
+    {
+      "id": "0412038903",
+      "nidn": "0412038903",
+      "nama": "Dr. Candra Wijaya",
+      "email": "candra.wijaya@univ.ac.id",
+      "status": true,
+      "maxSks": 12
+    },
+    {
+      "id": "0412038904",
+      "nidn": "0412038904",
+      "nama": "Dra. Diana Putri",
+      "email": "diana.putri@univ.ac.id",
+      "status": true,
+      "maxSks": 12
+    },
+    {
+      "id": "0412038905",
+      "nidn": "0412038905",
+      "nama": "Eko Prasetyo M.T.",
+      "email": "eko.prasetyo@univ.ac.id",
+      "status": true,
+      "maxSks": 12
+    },
+    {
+      "id": "0412038906",
+      "nidn": "0412038906",
+      "nama": "Farida Utami M.Si.",
+      "email": "farida.utami@univ.ac.id",
+      "status": false,
+      "maxSks": 12
+    },
+    {
+      "id": "0412038907",
+      "nidn": "0412038907",
+      "nama": "Gunawan Sudrajat Ph.D.",
+      "email": "gunawan@univ.ac.id",
+      "status": true,
+      "maxSks": 12
+    },
+    {
+      "id": "0412038908",
+      "nidn": "0412038908",
+      "nama": "Hany Rahmawati M.Kom.",
+      "email": "hany.rahma@univ.ac.id",
+      "status": true,
+      "maxSks": 12
+    },
+    {
+      "id": "0412038909",
+      "nidn": "0412038909",
+      "nama": "Irwan Hermawan M.T.",
+      "email": "irwan.hermawan@univ.ac.id",
+      "status": true,
+      "maxSks": 12
+    },
+    {
+      "id": "0412038910",
+      "nidn": "0412038910",
+      "nama": "Julia Perez M.Hum.",
+      "email": "julia.perez@univ.ac.id",
+      "status": false,
+      "maxSks": 12
+    },
+    {
+      "id": "0412038911",
+      "nidn": "0412038911",
+      "nama": "Dr. Kiki Amelia",
+      "email": "kiki.amelia@univ.ac.id",
+      "status": true,
+      "maxSks": 12
+    },
+    {
+      "id": "0412038912",
+      "nidn": "0412038912",
+      "nama": "Lucky Hakim M.Sc.",
+      "email": "lucky.hakim@univ.ac.id",
+      "status": true,
+      "maxSks": 12
+    },
+    {
+      "id": "0412038913",
+      "nidn": "0412038913",
+      "nama": "Megawati Sukarno M.T.",
+      "email": "megawati@univ.ac.id",
+      "status": true,
+      "maxSks": 12
+    },
+    {
+      "id": "0412038914",
+      "nidn": "0412038914",
+      "nama": "Nova Riana M.Kom.",
+      "email": "nova.riana@univ.ac.id",
+      "status": true,
+      "maxSks": 12
+    },
+    {
+      "id": "0412038915",
+      "nidn": "0412038915",
+      "nama": "Dr. Oki Setiana",
+      "email": "oki.setiana@univ.ac.id",
+      "status": false,
+      "maxSks": 12
+    },
+    {
+      "id": "0412038916",
+      "nidn": "0412038916",
+      "nama": "Prof. Priyono",
+      "email": "priyono@univ.ac.id",
+      "status": true,
+      "maxSks": 12
+    },
+    {
+      "id": "0412038917",
+      "nidn": "0412038917",
+      "nama": "Queen Latifa M.Si.",
+      "email": "queen.latifa@univ.ac.id",
+      "status": true,
+      "maxSks": 12
+    },
+    {
+      "id": "0412038918",
+      "nidn": "0412038918",
+      "nama": "Rendra Kurnia M.T.",
+      "email": "rendra@univ.ac.id",
+      "status": true,
+      "maxSks": 12
+    },
+    {
+      "id": "0412038919",
+      "nidn": "0412038919",
+      "nama": "Dr. Susi Susanti",
+      "email": "susi.susanti@univ.ac.id",
+      "status": true,
+      "maxSks": 12
+    },
+    {
+      "id": "0412038920",
+      "nidn": "0412038920",
+      "nama": "Prof. Tono Raharjo",
+      "email": "tono.raharjo@univ.ac.id",
+      "status": true,
+      "maxSks": 12
+    }
+  ],
+  "matakuliah": [
+    {
+      "id": "MK01",
+      "kode": "MK01",
+      "nama": "Pemrograman Web Sisi Klien",
+      "sks": 3,
+      "semester": 4
+    },
+    {
+      "id": "MK02",
+      "kode": "MK02",
+      "nama": "Struktur Data",
+      "sks": 4,
+      "semester": 2
+    },
+    {
+      "id": "MK03",
+      "kode": "MK03",
+      "nama": "Rekayasa Perangkat Lunak",
+      "sks": 3,
+      "semester": 5
+    },
+    {
+      "id": "MK04",
+      "kode": "MK04",
+      "nama": "Sistem Basis Data",
+      "sks": 3,
+      "semester": 3
+    },
+    {
+      "id": "MK05",
+      "kode": "MK05",
+      "nama": "Sistem Operasi",
+      "sks": 3,
+      "semester": 3
+    },
+    {
+      "id": "MK06",
+      "kode": "MK06",
+      "nama": "Jaringan Komputer",
+      "sks": 3,
+      "semester": 4
+    },
+    {
+      "id": "MK07",
+      "kode": "MK07",
+      "nama": "Kecerdasan Buatan",
+      "sks": 3,
+      "semester": 6
+    },
+    {
+      "id": "MK08",
+      "kode": "MK08",
+      "nama": "Desain Grafis",
+      "sks": 2,
+      "semester": 2
+    },
+    {
+      "id": "MK09",
+      "kode": "MK09",
+      "nama": "Interaksi Manusia & Komputer",
+      "sks": 2,
+      "semester": 4
+    },
+    {
+      "id": "MK10",
+      "kode": "MK10",
+      "nama": "Pemrograman Mobile",
+      "sks": 3,
+      "semester": 5
+    },
+    {
+      "id": "MK11",
+      "kode": "MK11",
+      "nama": "Keamanan Informasi",
+      "sks": 3,
+      "semester": 6
+    },
+    {
+      "id": "MK12",
+      "kode": "MK12",
+      "nama": "Statistika & Probabilitas",
+      "sks": 3,
+      "semester": 2
+    },
+    {
+      "id": "MK13",
+      "kode": "MK13",
+      "nama": "Aljabar Linier",
+      "sks": 3,
+      "semester": 1
+    },
+    {
+      "id": "MK14",
+      "kode": "MK14",
+      "nama": "Algoritma & Pemrograman",
+      "sks": 4,
+      "semester": 1
+    },
+    {
+      "id": "MK15",
+      "kode": "MK15",
+      "nama": "Analisis Desain Sistem",
+      "sks": 3,
+      "semester": 4
+    },
+    {
+      "id": "MK16",
+      "kode": "MK16",
+      "nama": "Cloud Computing",
+      "sks": 3,
+      "semester": 6
+    },
+    {
+      "id": "MK17",
+      "kode": "MK17",
+      "nama": "Data Mining",
+      "sks": 3,
+      "semester": 5
+    },
+    {
+      "id": "MK18",
+      "kode": "MK18",
+      "nama": "Internet of Things",
+      "sks": 3,
+      "semester": 6
+    },
+    {
+      "id": "MK19",
+      "kode": "MK19",
+      "nama": "Grafika Komputer",
+      "sks": 3,
+      "semester": 5
+    },
+    {
+      "id": "MK20",
+      "kode": "MK20",
+      "nama": "Etika Profesi IT",
+      "sks": 2,
+      "semester": 7
+    }
+  ],
+  "kelas": [
+    {
+      "id": "K01",
+      "kode": "K01",
+      "nama": "Kelas Pemrograman Web A",
+      "nidn": "0412038901",
+      "matakuliahKode": "MK01",
+      "ruang": "Lab Komputer 3",
+      "mahasiswaNims": [
+        "20211002",
+        "20211003",
+        "202315104"
+      ]
+    },
+    {
+      "id": "K02",
+      "kode": "K02",
+      "nama": "Kelas Struktur Data B",
+      "nidn": "0412038902",
+      "matakuliahKode": "MK02",
+      "ruang": "Lab Komputer 1",
+      "mahasiswaNims": [
+        "20211002",
+        "202315103"
+      ]
+    },
+    {
+      "id": "K03",
+      "kode": "K03",
+      "nama": "Kelas RPL C",
+      "nidn": "0412038903",
+      "matakuliahKode": "MK03",
+      "ruang": "Kelas Teori B",
+      "mahasiswaNims": [
+        "202315104",
+        "202315105",
+        "20211002",
+        "20211003"
+      ]
+    },
+    {
+      "id": "K04",
+      "kode": "K04",
+      "nama": "Kelas Basis Data D",
+      "nidn": "0412038904",
+      "matakuliahKode": "MK04",
+      "ruang": "Lab Komputer 2",
+      "mahasiswaNims": [
+        "20211003",
+        "202315107"
+      ]
+    },
+    {
+      "id": "K05",
+      "kode": "K05",
+      "nama": "Kelas Sistem Operasi A",
+      "nidn": "0412038905",
+      "matakuliahKode": "MK05",
+      "ruang": "Kelas Teori C",
+      "mahasiswaNims": [
+        "202315108",
+        "202315109"
+      ]
+    },
+    {
+      "id": "K06",
+      "kode": "K06",
+      "nama": "Kelas Jaringan Komputer B",
+      "nidn": "0412038906",
+      "matakuliahKode": "MK06",
+      "ruang": "Lab Komputer 1",
+      "mahasiswaNims": [
+        "202315111",
+        "202315112"
+      ]
+    },
+    {
+      "id": "K07",
+      "kode": "K07",
+      "nama": "Kelas Kecerdasan Buatan C",
+      "nidn": "0412038907",
+      "matakuliahKode": "MK07",
+      "ruang": "Kelas Teori A",
+      "mahasiswaNims": [
+        "202315113",
+        "202315114"
+      ]
+    },
+    {
+      "id": "K08",
+      "kode": "K08",
+      "nama": "Kelas Desain Grafis D",
+      "nidn": "0412038908",
+      "matakuliahKode": "MK08",
+      "ruang": "Lab Multimedia",
+      "mahasiswaNims": [
+        "202315116",
+        "202315117"
+      ]
+    },
+    {
+      "id": "K09",
+      "kode": "K09",
+      "nama": "Kelas IMK A",
+      "nidn": "0412038909",
+      "matakuliahKode": "MK09",
+      "ruang": "Kelas Teori B",
+      "mahasiswaNims": [
+        "202315118",
+        "202315119"
+      ]
+    },
+    {
+      "id": "K10",
+      "kode": "K10",
+      "nama": "Kelas Pemrograman Mobile B",
+      "nidn": "0412038910",
+      "matakuliahKode": "MK10",
+      "ruang": "Lab Komputer 3",
+      "mahasiswaNims": [
+        "202315120"
+      ]
+    },
+    {
+      "id": "K11",
+      "kode": "K11",
+      "nama": "Kelas Keamanan Informasi C",
+      "nidn": "0412038911",
+      "matakuliahKode": "MK11",
+      "ruang": "Kelas Teori D",
+      "mahasiswaNims": []
+    },
+    {
+      "id": "K12",
+      "kode": "K12",
+      "nama": "Kelas Statistika D",
+      "nidn": "0412038912",
+      "matakuliahKode": "MK12",
+      "ruang": "Kelas Teori A",
+      "mahasiswaNims": []
+    },
+    {
+      "id": "K13",
+      "kode": "K13",
+      "nama": "Kelas Aljabar Linier A",
+      "nidn": "0412038913",
+      "matakuliahKode": "MK13",
+      "ruang": "Kelas Teori C",
+      "mahasiswaNims": []
+    },
+    {
+      "id": "K14",
+      "kode": "K14",
+      "nama": "Kelas Algoritma B",
+      "nidn": "0412038914",
+      "matakuliahKode": "MK14",
+      "ruang": "Lab Komputer 2",
+      "mahasiswaNims": []
+    },
+    {
+      "id": "K15",
+      "kode": "K15",
+      "nama": "Kelas ADS C",
+      "nidn": "0412038915",
+      "matakuliahKode": "MK15",
+      "ruang": "Kelas Teori B",
+      "mahasiswaNims": []
+    },
+    {
+      "id": "K16",
+      "kode": "K16",
+      "nama": "Kelas Cloud D",
+      "nidn": "0412038916",
+      "matakuliahKode": "MK16",
+      "ruang": "Lab Komputer 3",
+      "mahasiswaNims": []
+    },
+    {
+      "id": "K17",
+      "kode": "K17",
+      "nama": "Kelas Data Mining A",
+      "nidn": "0412038917",
+      "matakuliahKode": "MK17",
+      "ruang": "Lab Komputer 1",
+      "mahasiswaNims": []
+    },
+    {
+      "id": "K18",
+      "kode": "K18",
+      "nama": "Kelas IoT B",
+      "nidn": "0412038918",
+      "matakuliahKode": "MK18",
+      "ruang": "Lab Mekatronika",
+      "mahasiswaNims": []
+    },
+    {
+      "id": "K19",
+      "kode": "K19",
+      "nama": "Kelas Grafika C",
+      "nidn": "0412038919",
+      "matakuliahKode": "MK19",
+      "ruang": "Lab Komputer 2",
+      "mahasiswaNims": []
+    },
+    {
+      "id": "K20",
+      "kode": "K20",
+      "nama": "Kelas Etika D",
+      "nidn": "0412038920",
+      "matakuliahKode": "MK20",
+      "ruang": "Kelas Teori A",
+      "mahasiswaNims": []
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

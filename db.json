@@ -16,7 +16,7 @@
     {
       "id": "user1@gmail.com",
       "email": "user1@gmail.com",
-      "name": "daffa",
+      "name": "audi",
       "password": "password123",
       "role": "Editor",
       "permissions": [
@@ -27,7 +27,7 @@
     {
       "id": "user2@gmail.com",
       "email": "user2@gmail.com",
-      "name": "Farhan arm",
+      "name": "andi",
       "password": "password123",
       "role": "User",
       "permissions": [
@@ -37,7 +37,7 @@
     {
       "id": "user3@gmail.com",
       "email": "user3@gmail.com",
-      "name": "fifi",
+      "name": "cintra w",
       "password": "password123",
       "role": "User",
       "permissions": [
@@ -47,7 +47,7 @@
     {
       "id": "user4@gmail.com",
       "email": "user4@gmail.com",
-      "name": "bambang",
+      "name": "sarno",
       "password": "password123",
       "role": "User",
       "permissions": [
@@ -219,36 +219,36 @@
     {
       "id": "20211002",
       "nim": "20211002",
-      "nama": "Budi",
+      "nama": "Audi",
       "status": true,
-      "maxSks": 16
+      "maxSks": 22
     },
     {
       "id": "20211003",
       "nim": "20211003",
-      "nama": "Fifi",
+      "nama": "Andi",
       "status": true,
-      "maxSks": 24
+      "maxSks": 13
     },
     {
       "id": "202315104",
       "nim": "202315104",
-      "nama": "Daffa",
+      "nama": "Citra W",
       "status": true,
-      "maxSks": 24
+      "maxSks": 18
     },
     {
       "id": "202315103",
       "nim": "202315103",
-      "nama": "Viana",
+      "nama": "Sarno",
       "status": true,
       "maxSks": 24
     },
     {
       "id": "202315105",
       "nim": "202315105",
-      "nama": "Ridya",
-      "status": true,
+      "nama": "Indah",
+      "status": false,
       "maxSks": 24
     },
     {
@@ -301,13 +301,6 @@
       "maxSks": 24
     },
     {
-      "id": "202315113",
-      "nim": "202315113",
-      "nama": "Miko Pratama",
-      "status": true,
-      "maxSks": 24
-    },
-    {
       "id": "202315114",
       "nim": "202315114",
       "nama": "Nabila Syakieb",
@@ -339,20 +332,6 @@
       "id": "202315118",
       "nim": "202315118",
       "nama": "Rian Hidayat",
-      "status": true,
-      "maxSks": 24
-    },
-    {
-      "id": "202315119",
-      "nim": "202315119",
-      "nama": "Sinta Bella",
-      "status": true,
-      "maxSks": 24
-    },
-    {
-      "id": "202315120",
-      "nim": "202315120",
-      "nama": "Taufik Hidayat",
       "status": true,
       "maxSks": 24
     }
@@ -483,22 +462,6 @@
       "nidn": "0412038916",
       "nama": "Prof. Priyono",
       "email": "priyono@univ.ac.id",
-      "status": true,
-      "maxSks": 12
-    },
-    {
-      "id": "0412038917",
-      "nidn": "0412038917",
-      "nama": "Queen Latifa M.Si.",
-      "email": "queen.latifa@univ.ac.id",
-      "status": true,
-      "maxSks": 12
-    },
-    {
-      "id": "0412038918",
-      "nidn": "0412038918",
-      "nama": "Rendra Kurnia M.T.",
-      "email": "rendra@univ.ac.id",
       "status": true,
       "maxSks": 12
     },

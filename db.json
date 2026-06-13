@@ -16,7 +16,7 @@
     {
       "id": "user1@gmail.com",
       "email": "user1@gmail.com",
-      "name": "audi",
+      "name": "nopal",
       "password": "password123",
       "role": "Editor",
       "permissions": [
@@ -27,7 +27,7 @@
     {
       "id": "user2@gmail.com",
       "email": "user2@gmail.com",
-      "name": "andi",
+      "name": "pradipa",
       "password": "password123",
       "role": "User",
       "permissions": [
@@ -37,7 +37,7 @@
     {
       "id": "user3@gmail.com",
       "email": "user3@gmail.com",
-      "name": "cintra w",
+      "name": "raditya",
       "password": "password123",
       "role": "User",
       "permissions": [
@@ -47,7 +47,7 @@
     {
       "id": "user4@gmail.com",
       "email": "user4@gmail.com",
-      "name": "sarno",
+      "name": "riski",
       "password": "password123",
       "role": "User",
       "permissions": [
@@ -58,26 +58,6 @@
       "id": "user5@gmail.com",
       "email": "user5@gmail.com",
       "name": "Indah Permata",
-      "password": "password123",
-      "role": "User",
-      "permissions": [
-        "Read"
-      ]
-    },
-    {
-      "id": "user6@gmail.com",
-      "email": "user6@gmail.com",
-      "name": "Joko Widodo",
-      "password": "password123",
-      "role": "User",
-      "permissions": [
-        "Read"
-      ]
-    },
-    {
-      "id": "user7@gmail.com",
-      "email": "user7@gmail.com",
-      "name": "Kartika Sari",
       "password": "password123",
       "role": "User",
       "permissions": [
@@ -105,29 +85,9 @@
       ]
     },
     {
-      "id": "user10@gmail.com",
-      "email": "user10@gmail.com",
-      "name": "Nabila Syakieb",
-      "password": "password123",
-      "role": "User",
-      "permissions": [
-        "Read"
-      ]
-    },
-    {
       "id": "user11@gmail.com",
       "email": "user11@gmail.com",
       "name": "Okto Wijaya",
-      "password": "password123",
-      "role": "User",
-      "permissions": [
-        "Read"
-      ]
-    },
-    {
-      "id": "user12@gmail.com",
-      "email": "user12@gmail.com",
-      "name": "Prima Nugraha",
       "password": "password123",
       "role": "User",
       "permissions": [
@@ -219,30 +179,30 @@
     {
       "id": "20211002",
       "nim": "20211002",
-      "nama": "Audi",
-      "status": true,
-      "maxSks": 22
+      "nama": "Nopal",
+      "status": false,
+      "maxSks": 24
     },
     {
       "id": "20211003",
       "nim": "20211003",
-      "nama": "Andi",
+      "nama": "Pradipa",
       "status": true,
       "maxSks": 13
     },
     {
       "id": "202315104",
       "nim": "202315104",
-      "nama": "Citra W",
+      "nama": "Raditya",
       "status": true,
       "maxSks": 18
     },
     {
       "id": "202315103",
       "nim": "202315103",
-      "nama": "Sarno",
+      "nama": "Riski",
       "status": true,
-      "maxSks": 24
+      "maxSks": 11
     },
     {
       "id": "202315105",
@@ -398,7 +358,7 @@
       "nidn": "0412038908",
       "nama": "Hany Rahmawati M.Kom.",
       "email": "hany.rahma@univ.ac.id",
-      "status": true,
+      "status": false,
       "maxSks": 12
     },
     {
@@ -422,7 +382,7 @@
       "nidn": "0412038911",
       "nama": "Dr. Kiki Amelia",
       "email": "kiki.amelia@univ.ac.id",
-      "status": true,
+      "status": false,
       "maxSks": 12
     },
     {
@@ -438,7 +398,7 @@
       "nidn": "0412038913",
       "nama": "Megawati Sukarno M.T.",
       "email": "megawati@univ.ac.id",
-      "status": true,
+      "status": false,
       "maxSks": 12
     },
     {

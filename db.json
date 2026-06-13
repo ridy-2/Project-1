@@ -14,22 +14,9 @@
       ]
     },
     {
-      "id": "test@gmail.com",
-      "email": "test@gmail.com",
-      "name": "Davin",
-      "password": "12345678",
-      "role": "Admin",
-      "permissions": [
-        "Read",
-        "Write",
-        "Manage Users",
-        "Delete"
-      ]
-    },
-    {
       "id": "user1@gmail.com",
       "email": "user1@gmail.com",
-      "name": "Eka Saputra",
+      "name": "daffa",
       "password": "password123",
       "role": "Editor",
       "permissions": [
@@ -40,7 +27,7 @@
     {
       "id": "user2@gmail.com",
       "email": "user2@gmail.com",
-      "name": "Farhan Aditama",
+      "name": "Farhan arm",
       "password": "password123",
       "role": "User",
       "permissions": [
@@ -50,7 +37,7 @@
     {
       "id": "user3@gmail.com",
       "email": "user3@gmail.com",
-      "name": "Gita Lestari",
+      "name": "fifi",
       "password": "password123",
       "role": "User",
       "permissions": [
@@ -60,7 +47,7 @@
     {
       "id": "user4@gmail.com",
       "email": "user4@gmail.com",
-      "name": "Hadi Wijaya",
+      "name": "bambang",
       "password": "password123",
       "role": "User",
       "permissions": [
@@ -216,6 +203,16 @@
       "permissions": [
         "Read"
       ]
+    },
+    {
+      "id": "VWJ65Lo37JQ",
+      "email": "daffa@gmail.com",
+      "name": "daffa",
+      "password": "12345",
+      "role": "User",
+      "permissions": [
+        "Read"
+      ]
     }
   ],
   "mahasiswa": [
@@ -229,28 +226,28 @@
     {
       "id": "20211003",
       "nim": "20211003",
-      "nama": "Citra",
+      "nama": "Fifi",
       "status": true,
       "maxSks": 24
     },
     {
       "id": "202315104",
       "nim": "202315104",
-      "nama": "Davin",
+      "nama": "Daffa",
       "status": true,
       "maxSks": 24
     },
     {
       "id": "202315103",
       "nim": "202315103",
-      "nama": "Putra",
+      "nama": "Viana",
       "status": true,
       "maxSks": 24
     },
     {
       "id": "202315105",
       "nim": "202315105",
-      "nama": "Eka Saputra",
+      "nama": "Ridya",
       "status": true,
       "maxSks": 24
     },

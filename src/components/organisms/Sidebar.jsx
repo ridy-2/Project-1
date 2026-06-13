@@ -34,7 +34,7 @@ const Sidebar = () => {
   return (
     <aside style={{ 
       width: '260px', 
-      backgroundColor: '#3b82f6', 
+      backgroundColor: '#1e40af', 
       color: '#fff', 
       display: 'flex', 
       flexDirection: 'column', 
